@@ -1,0 +1,20 @@
+[
+    {
+        "name": "gizem",
+        "number": "05542242665",
+        "password": "5fc6554bd1e1caf80fa247cbd8622cf7fd686b944cf1cc2df8a4d84343660f4c",
+        "created_at": "2025-01-29T15:10:24.682467"
+    },
+    {
+        "name": "tayfun",
+        "number": "05302152665",
+        "password": "623819810480d2317e7e384aa8b2f381e8f4fd55577cc63b0d3a5cfd75e3f19c",
+        "created_at": "2025-01-29T15:22:25.585768"
+    },
+    {
+        "name": "cinar",
+        "number": "05301234567",
+        "password": "8aa6c4c4fd0cf1ba7ca3d6b767fb01061329946d0ed26ff14e3a1038f2d5ec92",
+        "created_at": "2025-01-29T15:30:46.341065"
+    }
+]
